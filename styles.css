@@ -189,7 +189,7 @@ body {
 
 
 button {
-  width: 500px;
+  
   align-self: center;
   background-color: #efefef;
   border: none;
@@ -197,7 +197,7 @@ button {
   font-size: 1.25rem;
   font-weight: 700;
   justify-self: center;
-  padding: 0.5rem 1rem;
+  padding: 50px 100px;
 }
 button:hover {
   cursor: pointer;
