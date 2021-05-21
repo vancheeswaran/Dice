@@ -189,6 +189,7 @@ body {
 
 
 button {
+  width: 100%
   align-self: center;
   background-color: #efefef;
   border: none;
